@@ -1,0 +1,57 @@
+{
+  margin: 0;
+  padding: 0;
+}
+.header {
+  font-size: 95px;
+  color: white;
+  background-image: url("header.jpeg");
+  font-family: verdana, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.brushes {
+  text-align: center;
+  background: #00cc99;
+  color: navy;
+  margin: 100;
+
+}
+
+.hacksaw {
+  color:navy;
+  text-align: center;
+  background: #808040;
+}
+p {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18px
+}
+
+.frames {
+  text-align: center;
+  background: #cc66ff;
+  color: navy;
+  margin: 100;
+
+}
+.artframes {
+  color:navy;
+  text-align: center;
+  background: #99ccff;
+}
+
+.paint {
+  text-align: center;
+  background: #ff9900;
+  color: navy;
+  margin: 100;
+
+}
+.finnishpaint {
+  color:navy;
+  text-align: center;
+  background: #7e639c;
+}
